@@ -8,6 +8,7 @@ Current rating for Racket: 2/5.  I'm very familiar with Java and understand how 
 
 ** Task 2: The Code **
 #lang typed/racket
+#link: https://replit.com/@Joel_AndrewAndr/HunterTopicsRacket
 #Author: Joel Bianchi
 #Date: 3/17/2023
 #Assignment: If you are given three sticks, you may or may not be able to arrange them in a triangle. For any three lengths, there is a simple test to see if it is possible to form a triangle. If any of the three lengths is greater than the sum of the other two, you cannot form a triangle. Write a method name is-triangle that takes three integers as arguments and return either true or false, depending on whether you can or cannot form a triangle from sticks with the given lengths. 
